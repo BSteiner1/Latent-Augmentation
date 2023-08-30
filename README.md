@@ -1,6 +1,7 @@
 # Latent-Augmentation
 
 ### A data augmentation method to improve the speed of re-training.
+* We introduce noise to the latent features of the network in order to enhance data upsampling.
 
 ### The hypothesis was tested on the [MovieLens](https://grouplens.org/datasets/movielens/) dataset. 
 * This dataset is a widely used dataset for building and evaluating recommender systems. It contains user ratings and movie information, making it a valuable resource for developing personalized recommendation algorithms.
