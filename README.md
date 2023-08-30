@@ -9,4 +9,5 @@
 ### An example of the training process
 * We see that the network trained on the original dataset (blue) learns much slower in the early stages of training.
 
-![AELearningPlot](https://github.com/BSteiner1/Latent-Augmentation/assets/96544001/bb6c878f-29d5-4c14-94c9-cae45100d0cb)
+![LearningPlot ](https://github.com/BSteiner1/Latent-Augmentation/assets/96544001/59189610-45ee-4bc5-8522-eb64a070c83a)
+
